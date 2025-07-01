@@ -1,6 +1,8 @@
-// Online C++ compiler to run C++ program online
+// basic array operations
+
 #include <iostream>
 using namespace std;
+
 
 class Array{
     private:
