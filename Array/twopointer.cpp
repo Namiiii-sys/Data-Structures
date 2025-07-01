@@ -6,6 +6,8 @@ using namespace std;
 // take two var start and end, start ++ while end--;
 // swap the end and start value until they're both start>=end;
 
+// Time Complexicity : O(n)
+
 void reverseArr(int arr[],int size){
     int start=0 , end = size-1;
     while(start < end){

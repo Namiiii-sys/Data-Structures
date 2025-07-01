@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// Time Complexicity : O(n)
+
 int linearsearch(int arr[], int size,int target){
      for(int i=0;i<size;i++){
         if(arr[i]==target){
