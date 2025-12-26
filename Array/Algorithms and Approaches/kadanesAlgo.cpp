@@ -18,4 +18,3 @@ using namespace std;
         }
         return maxsum;
     }
-};
